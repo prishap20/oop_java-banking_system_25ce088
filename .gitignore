@@ -1,0 +1,23 @@
+# Java compiled files
+*.class
+bin/
+out/
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs and runtime data
+*.log
+data/*.tmp
+
+# IDE / macOS files
+.DS_Store
+.idea/
+*.iml
+.vscode/
+.settings/
+.project/
+.classpath/
